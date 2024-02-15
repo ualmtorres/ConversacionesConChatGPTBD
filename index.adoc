@@ -62,6 +62,8 @@ _Conversaciones con ChatGPT_ es un recurso que aprovecha esta capacidad de ChatG
 
 ## Conceptos generales
 
+### Contenidos
+
 .¿Qué es una base de datos? Dame ejemplos cotidianos.
 ****
 Una base de datos es un conjunto organizado de datos que están estructurados y almacenados de manera que se puedan acceder, gestionar y actualizar de forma eficiente. Estas bases de datos pueden ser tan simples como una lista de contactos en tu teléfono móvil o tan complejas como los sistemas de gestión de bases de datos utilizados por grandes empresas para almacenar información sobre clientes, productos, transacciones y más. Aquí tienes algunos ejemplos cotidianos de bases de datos:
@@ -691,6 +693,481 @@ Sí, tener formación en el Modelo Entidad-Relación (ER), bases de datos relaci
 
 En resumen, tener formación en el Modelo Entidad-Relación, bases de datos relacionales y SQL antes de estudiar bases de datos NoSQL puede proporcionarte una base sólida y una comprensión más completa de los principios y prácticas en el campo de la gestión de datos. Esto te permitirá abordar de manera más efectiva los desafíos y oportunidades asociados con las bases de datos NoSQL.
 ****
+
+### Autoevaluación
+
+#### Preguntas Verdadero/Falso
+
+. Una clave primaria en una base de datos relacional puede contener valores duplicados.
++ 
+[%collapsible]
+====
+Falso
+====
+. Las bases de datos NoSQL utilizan exclusivamente el modelo relacional para almacenar datos.
++
+[%collapsible]
+====
+Falso
+====
+
+. SQL es un lenguaje de consulta utilizado exclusivamente en bases de datos relacionales.
++
+[%collapsible]
+====
+Falso
+====
+
+. En un Modelo Entidad-Relación, una relación representa una conexión lógica entre dos entidades.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. Las bases de datos NoSQL son inherentemente más escalables que las bases de datos relacionales.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. Un administrador de base de datos es responsable de diseñar y mantener el hardware de un sistema de gestión de bases de datos.
++
+[%collapsible]
+====
+Falso
+====
+
+. Las bases de datos relacionales son más adecuadas para aplicaciones con estructuras de datos altamente variables y no predefinidas.
++
+[%collapsible]
+====
+Falso
+====
+
+. En un modelo de datos de grafos, los nodos representan entidades y las relaciones entre ellos se representan como aristas.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. La normalización de datos es un proceso que se aplica exclusivamente a las bases de datos NoSQL.
++
+[%collapsible]
+====
+Falso
+====
+
+. _Conversaciones con ChatGPT_ utiliza inteligencia artificial para proporcionar explicaciones y ejemplos sobre conceptos relacionados con bases de datos y otros temas de informática.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. Un SGBD es un sistema que permite a los usuarios interactuar con una base de datos, pero no tiene funciones de gestión ni control sobre los datos.
++
+[%collapsible]
+====
+Falso
+====
+
+. En un modelo de datos jerárquico, los registros se organizan en una estructura de árbol, donde cada registro tiene uno o más registros secundarios relacionados.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. La independencia de datos es la capacidad de un sistema de bases de datos para ocultar los detalles de almacenamiento y acceso a los datos de los usuarios y las aplicaciones.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. Los metadatos son datos que describen y proporcionan información sobre otros datos en una base de datos.
++ 
+[%collapsible]
+====
+Verdadero
+====
+
+. Las bases de datos NoSQL son más adecuadas para aplicaciones que requieren transacciones complejas y consultas SQL avanzadas.
++
+[%collapsible]
+====
+Falso
+====
+
+. En una base de datos relacional, la integridad referencial garantiza que las relaciones entre tablas se mantengan consistentes.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. El modelo de datos orientado a documentos es especialmente útil para representar datos con estructuras altamente relacionalas y complejas.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. La arquitectura ANSI/SPARC es un estándar de la industria que define los principios básicos de diseño y estructura de un SGBD.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. Los sistemas de gestión de archivos son más eficientes que los sistemas de gestión de bases de datos para el manejo de grandes volúmenes de datos.
++
+[%collapsible]
+====
+Falso
+====
+
+. En una base de datos, una clave externa es una clave primaria que se utiliza en otra tabla para establecer una relación entre las tablas.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. La consistencia de la base de datos garantiza que los datos sean precisos y completos en todo momento.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. Los modelos de datos semiestructurados son menos flexibles que los modelos de datos estructurados.
++
+[%collapsible]
+====
+Falso
+====
+
+. La independencia de datos en la arquitectura ANSI/SPARC se refiere a la capacidad de modificar el esquema de la base de datos sin afectar las aplicaciones que acceden a los datos.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. La clave primaria de una tabla puede tener valores nulos si así lo permite la definición de la columna.
++ 
+[%collapsible]
+====
+Falso
+====
+
+. En el modelo de datos de grafos, los nodos representan entidades y las aristas representan propiedades de esas entidades.
++ 
+[%collapsible]
+====
+Falso
+====
+
+. Los sistemas de gestión de bases de datos proporcionan funciones para garantizar la recuperación de fallos y la recuperación de datos en caso de un problema.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. La integridad de la base de datos se refiere a la exactitud y la validez de los datos almacenados en la base de datos.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. En el modelo relacional, una relación o tabla se define como un conjunto de entidades o registros que comparten los mismos atributos.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. La clave primaria de una tabla se utiliza para identificar de manera única cada fila en esa tabla y garantizar la integridad de los datos.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. Los sistemas de gestión de bases de datos proporcionan mecanismos para garantizar la seguridad de los datos y el control de acceso.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. Un lenguaje de manipulación de datos (DML) se utiliza para definir la estructura y el diseño de una base de datos.
++
+[%collapsible]
+====
+Falso
+====
+
+. Los sistemas de bases de datos NoSQL son inherentemente más seguros que los sistemas de bases de datos relacionales.
++
+[%collapsible]
+====
+Falso
+====
+
+. La integridad referencial garantiza que cada fila en una tabla tenga un valor válido para una clave primaria o externa correspondiente en otra tabla.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. Las vistas en una base de datos permiten a los usuarios acceder a datos de una o más tablas como si fueran una tabla única.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. La arquitectura ANSI/SPARC se refiere a un estándar de la industria que define los principios básicos de diseño y estructura de las bases de datos NoSQL.
++
+[%collapsible]
+====
+Falso
+====
+
+. Las transacciones en una base de datos garantizan que un conjunto de operaciones se ejecuten de manera completa y consistente, o no se ejecuten en absoluto.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. Un sistema de gestión de bases de datos se utiliza únicamente para almacenar y recuperar datos, pero no tiene funciones de seguridad o control de acceso.
++
+[%collapsible]
+====
+Falso
+====
+
+. La integridad de la base de datos garantiza que los datos almacenados sean válidos y consistentes en todo momento.
++
+[%collapsible]
+====
+Verdadero
+====
+
+#### Preguntas de opción múltiple con una respuesta correcta
+
+. ¿Qué es un Sistema de Gestión de Bases de Datos (SGBD)?
++
+a. Un software que permite gestionar archivos en un sistema operativo.
+b. Una herramienta que facilita la creación y manipulación de bases de datos.
+c. Un lenguaje de programación utilizado para desarrollar aplicaciones web.
+d. Un componente hardware utilizado para almacenar datos.
++
+[%collapsible]
+====
+Respuesta correcta: b) Una herramienta que facilita la creación y manipulación de bases de datos.
+====
+
+. ¿Qué tipo de datos suelen almacenar las bases de datos de documentos?
++
+a. Datos estructurados en forma de tablas y filas.
+b. Información jerárquica organizada en forma de árbol.
+c. Información no estructurada o semiestructurada en forma de documentos.
+d. Datos numéricos y categóricos organizados en forma de gráficos.
++
+[%collapsible]
+====
+Respuesta correcta: c) Información no estructurada o semi-estructurada en forma de documentos.
+====
+
+. ¿Qué función cumple la integridad referencial en una base de datos relacional?
++
+a. Garantiza que los datos almacenados sean válidos y precisos en todo momento.
+b. Evita la duplicación de datos en la base de datos.
+c. Proporciona seguridad en el acceso a la base de datos.
+d. Establece relaciones coherentes entre las tablas mediante el uso de claves primarias y externas.
++
+[%collapsible]
+====
+Respuesta correcta: d) Establece relaciones coherentes entre las tablas mediante el uso de claves primarias y externas.
+====
+
+. ¿Qué característica distingue a las bases de datos de grafos de otros tipos de bases de datos?
++
+a. Almacenan datos en tablas y filas.
+b. Utilizan consultas SQL para manipular datos.
+c. Modelan datos como nodos y relaciones entre ellos.
+d. Organizan datos en documentos estructurados o semi-estructurados.
++
+[%collapsible]
+====
+Respuesta correcta: c) Modelan datos como nodos y relaciones entre ellos.
+====
+
+. ¿Qué función cumple la transacción en una base de datos?
++
+a. Garantiza que un conjunto de operaciones se ejecute de manera completa y consistente.
+b. Controla el acceso a la base de datos y protege los datos contra accesos no autorizados.
+c. Define la estructura y el diseño de la base de datos.
+d. Cifra los datos almacenados para proteger la privacidad y la seguridad.
++
+[%collapsible]
+====
+Respuesta correcta: a) Garantiza que un conjunto de operaciones se ejecute de manera completa y consistente.
+====
+
+. ¿Cuál es el propósito principal de la arquitectura ANSI/SPARC en el contexto de los sistemas de gestión de bases de datos?
++
+a. Establecer estándares para la manipulación de datos no estructurados.
+b. Definir los principios básicos de diseño y estructura de un SGBD.
+c. Proporcionar un conjunto de protocolos de comunicación para sistemas de bases de datos distribuidas.
+d. Establecer directrices para la administración de la seguridad de la base de datos.
++
+[%collapsible]
+====
+Respuesta correcta: b) Definir los principios básicos de diseño y estructura de un SGBD.
+====
+
+. ¿Cuál de las siguientes afirmaciones describe mejor la independencia de datos en el contexto de las bases de datos?
++
+a. La capacidad de una base de datos para mantener datos confidenciales de forma segura.
+b. La capacidad de una base de datos para ocultar detalles de almacenamiento y acceso a los usuarios y aplicaciones.
+c. La capacidad de una base de datos para almacenar grandes volúmenes de datos.
+d. La capacidad de una base de datos para manejar múltiples conexiones de usuario simultáneas.
++
+[%collapsible]
+====
+Respuesta correcta: b) La capacidad de una base de datos para ocultar detalles de almacenamiento y acceso a los usuarios y aplicaciones.
+====
+
+. ¿Cuál de las siguientes no es una función de un Sistema de Gestión de Bases de Datos (SGBD)?
++
+a.  Almacenamiento de datos en tablas y filas.
+b. Protección de datos contra accesos no autorizados.
+c. Ejecución de consultas SQL para manipular datos.
+d. Diseño y desarrollo de aplicaciones web.
++
+[%collapsible]
+====
+Respuesta correcta: d) Diseño y desarrollo de aplicaciones web.
+====
+
+. ¿Qué función cumple una clave externa en una base de datos relacional?
++
+a. Identifica de manera única cada fila en una tabla.
+b. Establece relaciones coherentes entre tablas mediante referencias a claves primarias.
+c. Controla el acceso a la base de datos y protege los datos contra accesos no autorizados.
+d. Almacena valores duplicados para mejorar la redundancia de datos.
++
+[%collapsible]
+====
+Respuesta correcta: b) Establece relaciones coherentes entre tablas mediante referencias a claves primarias.
+====
+
+. ¿Qué tipo de consulta se utiliza comúnmente en una base de datos relacional para recuperar datos?
++
+a. Lenguaje de Modelado Universal (UML).
+b. Lenguaje de Definición de Datos (DDL).
+c. SQL (Structured Query Language).
+d. JSON (JavaScript Object Notation).
++
+[%collapsible]
+====
+Respuesta correcta: c) SQL (Structured Query Language).
+====
+
+. ¿Cuál de las siguientes afirmaciones describe mejor la normalización de datos en el contexto de las bases de datos?
++
+a. Un proceso para cifrar datos sensibles en la base de datos.
+b. Una técnica para aumentar la redundancia de datos y mejorar el rendimiento.
+c. Un procedimiento para desactivar las restricciones de integridad referencial.
+d. Un proceso para descomponer tablas grandes en tablas más pequeñas y con menos problemas de diseño.
++
+[%collapsible]
+====
+Respuesta correcta: d) Un proceso para descomponer tablas grandes en tablas más pequeñas y con menos problemas de diseño.
+====
+
+. ¿Qué tipo de modelo de datos se utiliza comúnmente para representar la estructura de datos de una base de datos?
++
+a. Modelo de datos jerárquico.
+b. Modelo de datos de red.
+c. Modelo Entidad-Relación (ER).
+d. Modelo de datos de grafos.
++
+[%collapsible]
+====
+Respuesta correcta: c) Modelo Entidad-Relación (ER).
+====
+
+. ¿Cuál de las siguientes afirmaciones describe mejor la integridad referencial en una base de datos relacional?
++
+a. Garantiza que los datos almacenados sean válidos y precisos en todo momento.
+b. Permite a los usuarios acceder y manipular datos de una o más tablas como si fueran una tabla única.
+c. Controla el acceso a la base de datos y protege los datos contra accesos no autorizados.
+d. Establece relaciones coherentes entre tablas mediante el uso de claves primarias y externas.
++
+[%collapsible]
+====
+Respuesta correcta: d) Establece relaciones coherentes entre tablas mediante el uso de claves primarias y externas.
+====
+
+. ¿Cuál de las siguientes afirmaciones describe mejor la independencia de datos en el contexto de la arquitectura ANSI/SPARC?
++
+a. La capacidad de un sistema de gestión de bases de datos de ofrecer funciones de respaldo y recuperación.
+b. La capacidad de modificar el esquema de la base de datos sin afectar las aplicaciones que acceden a los datos.
+c. La capacidad de almacenar grandes volúmenes de datos en la base de datos.
+d. La capacidad de ejecutar consultas SQL para manipular datos almacenados en la base de datos.
++
+[%collapsible]
+====
+Respuesta correcta: b) La capacidad de modificar el esquema de la base de datos sin afectar las aplicaciones que acceden a los datos.
+====
+
+. ¿Cuál de las siguientes afirmaciones describe mejor la función del lenguaje de definición de datos (DDL) en una base de datos relacional?
++
+a. Definir la estructura y el diseño de la base de datos.
+b. Manipular y recuperar datos almacenados en la base de datos.
+c. Controlar el acceso a la base de datos y proteger los datos.
+d. Analizar y visualizar datos para tomar decisiones.
++
+[%collapsible]
+====
+Respuesta correcta: a) Definir la estructura y el diseño de la base de datos.
+====
+
+. ¿Cuál de las siguientes afirmaciones describe mejor la función de una transacción en una base de datos?
++
+a. Proporcionar una descripción detallada de la estructura y el contenido de la base de datos.
+b. Controlar el acceso a la base de datos y proteger los datos contra accesos no autorizados.
+c. Ejecutar consultas SQL para manipular datos almacenados en la base de datos.
+d. Garantizar que un conjunto de operaciones se ejecute de manera completa y consistente.
++
+[%collapsible]
+====
+Respuesta correcta: d) Garantizar que un conjunto de operaciones se ejecute de manera completa y consistente.
+====
+
+. ¿Cuál de las siguientes afirmaciones describe mejor la función de la clave primaria en una base de datos relacional?
++
+a. Establecer relaciones coherentes entre tablas mediante referencias a claves externas.
+b. Identificar de manera única cada fila en una tabla.
+c. Controlar el acceso a la base de datos y proteger los datos contra accesos no autorizados.
+d. Almacenar valores duplicados para mejorar la redundancia de datos.
++
+[%collapsible]
+====
+Respuesta correcta: b) Identificar de manera única cada fila en una tabla.
+====
 
 ## Conclusiones
 
