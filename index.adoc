@@ -307,6 +307,7 @@ El diseño correcto de una base de datos es de suma importancia desde el punto d
 * Escalabilidad y adaptabilidad: Los sistemas de información deben ser capaces de crecer y adaptarse a medida que cambian las necesidades del negocio y aumenta la cantidad de datos. Un diseño escalable de la base de datos permite agregar nuevas funcionalidades y expandir la capacidad de almacenamiento sin comprometer el rendimiento o la integridad de los datos. Esto garantiza que el sistema pueda seguir siendo efectivo y útil a medida que evolucionan los requisitos del negocio.
 
 En resumen, el diseño correcto de una base de datos es esencial para el éxito y la efectividad de un sistema de información. Proporciona una base sólida para la funcionalidad del sistema, garantiza la integridad y la coherencia de los datos, facilita el análisis y la toma de decisiones, y permite que el sistema sea escalable y adaptable a medida que cambian las necesidades del negocio.
+****
 
 .¿Qué es la Arquitectura ANSI/SPARC?
 ****
@@ -346,6 +347,7 @@ Existen varios tipos de modelos de datos, cada uno con sus propias característi
 * Modelo de Datos Orientado a Objetos: Representa los datos como objetos que pueden tener propiedades (atributos) y comportamientos (métodos). Este modelo es útil cuando se trabaja con lenguajes de programación orientados a objetos y se necesita una integración estrecha entre la base de datos y la lógica de la aplicación.
 
 En resumen, un modelo de datos proporciona una estructura y una representación conceptual de la información en una base de datos, lo que ayuda a los diseñadores y desarrolladores a entender, diseñar y manipular los datos de manera efectiva y eficiente. Cada tipo de modelo de datos tiene sus propias características y se adapta mejor a diferentes escenarios y requisitos de aplicación.
+****
 
 .Explícame que es un modelo de datos como si fuese un juego de construcción
 ****
