@@ -1174,3 +1174,145 @@ Respuesta correcta: b) Identificar de manera única cada fila en una tabla.
 La idea de utilizar inteligencia artificial, como ChatGPT, como recurso educativo ofrece varias ventajas. Permite un aprendizaje interactivo y accesible, donde los estudiantes pueden hacer preguntas, recibir explicaciones claras y explorar conceptos complejos de una manera intuitiva y dinámica. Además, ofrece una oportunidad única para combinar la tecnología emergente con la educación tradicional, proporcionando una experiencia educativa innovadora y enriquecedora.
 
 A medida que la tecnología continúa avanzando, es probable que surjan nuevas formas de utilizar la inteligencia artificial y otros avances tecnológicos en el ámbito educativo. _Conversaciones con ChatGPT_ es solo un ejemplo de cómo la tecnología puede ser aprovechada para mejorar el proceso de aprendizaje y hacer que los conceptos complejos sean más accesibles y comprensibles para una amplia audiencia de estudiantes.
+
+:numbered!:
+
+## Anexo. Preguntas fuera de tema
+
+. La normalización de datos es un proceso utilizado para reducir la redundancia y mejorar la integridad de los datos en una base de datos.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. En el modelo relacional, una clave candidata es un conjunto de atributos que identifica de manera única a una fila en una tabla.
++ 
+[%collapsible]
+====
+Verdadero
+====
+
+. La normalización de datos es un proceso que consiste en combinar varias tablas en una sola tabla para mejorar el rendimiento de las consultas.
++
+[%collapsible]
+====
+Falso
+====
+
+. En un Modelo Entidad-Relación, una relación de uno a uno significa que cada instancia de una entidad está relacionada con exactamente una instancia de otra entidad.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. En un Modelo Entidad-Relación, un atributo multivaluado puede tener más de un valor para una instancia de una entidad.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. La normalización de datos es un proceso que implica la descomposición de tablas grandes en tablas más pequeñas y con menos problemas de diseño.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. En un Modelo Entidad-Relación, una relación de muchos a muchos significa que cada instancia de una entidad está relacionada con múltiples instancias de otra entidad.
++
+[%collapsible]
+====
+Verdadero
+====
+
+. La normalización de datos es un proceso que aumenta la redundancia de datos en una base de datos para mejorar el rendimiento de las consultas.
++
+[%collapsible]
+====
+Falso
+====
+
+. La redundancia de datos es beneficiosa en una base de datos porque ayuda a mejorar la integridad de los datos.
++
+[%collapsible]
+====
+Falso
+====
+
+. La redundancia de datos es deseable en una base de datos porque facilita la recuperación de datos en caso de fallos.
++
+[%collapsible]
+====
+Falso
+====
+
+. La normalización de datos es un proceso que se aplica exclusivamente a las bases de datos relacionales y no tiene aplicaciones en las bases de datos NoSQL.
++
+[%collapsible]
+====
+Falso
+====
+
+. ¿Qué es la normalización de datos en el contexto de las bases de datos relacionales?
++
+a. Un proceso para duplicar datos y mejorar la redundancia.
+b. Una técnica para descomponer tablas grandes en tablas más pequeñas y con menos problemas de diseño.
+c. Un método para cifrar datos sensibles en la base de datos.
+d. Un procedimiento para desactivar la integridad referencial en una base de datos.
++
+[%collapsible]
+====
+Respuesta correcta: b) Una técnica para descomponer tablas grandes en tablas más pequeñas y con menos problemas de diseño.
+====
+
+. ¿Cuál de las siguientes no es una característica común de las bases de datos NoSQL?
++
+a. Esquemas flexibles que pueden adaptarse fácilmente a cambios en los datos.
+b. Escalabilidad horizontal que permite manejar grandes volúmenes de datos.
+c. Uso exclusivo del modelo relacional para almacenar datos.
+d. Altas velocidades de lectura y escritura.
++
+[%collapsible]
+====
+Respuesta correcta: c) Uso exclusivo del modelo relacional para almacenar datos.
+====
+
+. ¿Cuál es el propósito principal de la normalización de datos en una base de datos relacional?
++
+a. Reducir la redundancia de datos y mejorar la integridad.
+b. Aumentar la redundancia de datos para mejorar el rendimiento de las consultas.
+c. Desactivar las restricciones de integridad referencial en la base de datos.
+d. Comprimir los datos almacenados para ahorrar espacio en disco.
++
+[%collapsible]
+====
+Respuesta correcta: a) Reducir la redundancia de datos y mejorar la integridad.
+====
+
+. ¿Cuál de las siguientes características no se asocia comúnmente con las bases de datos NoSQL?
++
+a. Escalabilidad horizontal.
+b. Estructura de datos fija y rígida.
+c. Alta disponibilidad.
+d. Flexibilidad en el esquema de datos.
++
+[%collapsible]
+====
+Respuesta correcta: b) Estructura de datos fija y rígida.
+====
+
+. ¿Qué característica distingue a una base de datos orientada a documentos de otros tipos de bases de datos NoSQL?
++
+a. Utiliza consultas SQL para manipular datos.
+b. Almacena datos en forma de documentos estructurados o semiestructurados.
+c. Modela datos como nodos y relaciones entre ellos.
+d. Utiliza una estructura de datos fija y rígida.
++
+[%collapsible]
+====
+Respuesta correcta: b) Almacena datos en forma de documentos estructurados o semi-estructurados.
+====
+
